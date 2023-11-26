@@ -2,4 +2,4 @@
 
 [Chrysalis graphical keyboard configurator](https://github.com/keyboardio/Chrysalis)
 
-![keyboard layout](./config.png)
+![keyboard layout](./keyboardio100.png)
